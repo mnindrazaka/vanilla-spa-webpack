@@ -4,7 +4,7 @@
   "description": "vanilla SPA with webpack",
   "scripts": {
     "build": "webpack",
-    "start": "npm run build && node server.js"
+    "start": "npm run build && node src/server/index.js"
   },
   "repository": {
     "type": "git",
