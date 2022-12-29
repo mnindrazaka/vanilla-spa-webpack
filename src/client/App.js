@@ -1,5 +1,5 @@
-import HomePage from "../screens/HomePage.js";
-import AboutPage from "../screens/AboutPage.js";
+import HomePage from "./screens/HomePage.js";
+import AboutPage from "./screens/AboutPage.js";
 import { state } from "./state.js";
 
 function App() {
